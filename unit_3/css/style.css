@@ -1,0 +1,19 @@
+body{
+  text-align:center;
+  background: url("images/photo-yoga-on-cliff-10015.jpg");
+  background-size: cover;
+  color: #24ff4f;
+  font-family: Helvetica;
+}
+h1,h2{
+	color:#24ff4f;
+}
+h2{
+	font-style: italic;
+}
+hr{
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
