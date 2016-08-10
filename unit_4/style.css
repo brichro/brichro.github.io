@@ -1,0 +1,22 @@
+@import url (@import url(https://fonts.googleapis.com/css?family=Bigshot+One);)
+@import url (@import url(https://fonts.googleapis.com/css?family=Audiowide);)
+body{
+  text
+  background: url("images/photo-yoga-on-cliff-10015.jpg");
+  background-size: cover;
+  color: #24ff4f;
+  font-family: Bigshot One;
+}
+h1,h2{
+	font-family: Audiowide;
+	color:#24ff4f;
+}
+h2{
+	font-style: italic;
+}
+hr{
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
