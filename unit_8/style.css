@@ -39,22 +39,7 @@ header {background-color: #FFED74;
   border: 1% black solid;
   padding: 20%;
 }
-#two_column {
-  background-color: #FFB7CF;
-  border: 1%black solid;
-  padding: 20%;
-}
-#left {
-  background-color: violet;
-  border: 1% black solid;
-  padding: 20%;
-  width: 30%;
-}
-#right {
-  background-color: pink;
-  border: 1% black solid;
-  padding: 20%;
-  width: 62%;
+
 }
 
 @media only screen and (max-width: 300px) {
