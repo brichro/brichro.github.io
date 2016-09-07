@@ -4,7 +4,6 @@ body{
   text-align:center;
   background: url("images/photo-yoga-on-cliff-10015.jpg");
   background-size: cover;
-  color: #24ff4f;
   width: 100%;
   font-family: Bigshot+One;
 }
@@ -12,7 +11,6 @@ h1,h2{
   text-align:center;
   padding: 20%;
   border: 1% black solid;
-	color:#24ff4f;
 	font-family: Audiowide;
 }
 h2{
